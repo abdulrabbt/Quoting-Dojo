@@ -23,6 +23,6 @@
     "express-flash": "0.0.2",
     "express-session": "^1.17.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.7.4"
+    "mongoose": "^5.7.5"
   }
 }
